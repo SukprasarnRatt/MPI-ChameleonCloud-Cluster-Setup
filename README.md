@@ -1,10 +1,25 @@
 # MPI-ChameleonCloud-Cluster-Setup
-Setup and Configuration of a Virtual Machine Cluster to Run MPI Programs.
 
-Objective: This repository showcases the setup of a virtual machine (VM) cluster to run MPICH programs on Chameleon Cloud, with a detailed walk-through of configurations, shared storage via NFS, and running MPI-based parallel programs.
-Features: 
-Virtual Machine (VM) deployment and configuration.
-NFS server setup for shared storage.
-MPICH installation and parallel program execution.
-Execution of a distributed Hello World MPI program.
+**Setup and Configuration of a Virtual Machine Cluster to Run MPI Programs**
 
+---
+
+## Objective
+
+This repository showcases the process of setting up a virtual machine (VM) cluster on Chameleon Cloud to execute MPI-based parallel programs. It includes detailed configurations for shared storage using NFS, installation of MPICH, and execution of a distributed "Hello World" program.
+
+---
+
+## Features
+
+- **Virtual Machine Deployment and Configuration**:  
+  Set up a cluster with multiple VMs for parallel computing.
+
+- **NFS Server Setup**:  
+  Configure a shared storage system for seamless data sharing between nodes.
+
+- **MPICH Installation**:  
+  Install and configure the MPICH library for running MPI programs.
+
+- **Distributed Program Execution**:  
+  Run and verify a parallel "Hello World" program across the cluster.
