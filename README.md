@@ -32,6 +32,9 @@ This repository showcases the process of setting up a virtual machine (VM) clust
   These virtual machines will be set up as a cluster in the future as shown in the images below. We will access these clusters using SSH public and private keys.
 
   <img src="screenshots/Picture1.png" width="400">
+
   <img src="screenshots/Picture2.png" width="400">
+
   <img src="screenshots/Picture3.png" width="400">
+
   <img src="screenshots/Picture4.png" width="400">
