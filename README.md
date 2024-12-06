@@ -40,7 +40,7 @@ This repository showcases the process of setting up a virtual machine (VM) clust
   <img src="screenshots/Picture4.png" width="400"><br>
 
 - **Create NFS Server**:  
-  Create NFS server and volume size 5GB for NFS server. Then atatch it to nfs server.
+  Create an NFS server with a 5GB volume. Attach the volume to the NFS server to enable shared storage for the cluster.
 
   <img src="screenshots/Picture5.png" width="400"><br>
 
