@@ -29,7 +29,7 @@ This repository showcases the process of setting up a virtual machine (VM) clust
 ## Set Up Environment
 
 - **Create 3 Virtual Machines using CentOS Stream9**:  
-  These virtual machines will be set up as a cluster in the future as shown in the images below. We will access these clusters using SSH public and private keys.
+  These virtual machines are configured as a cluster to enable distributed computing. Access to the cluster is secured using an SSH key pair, consisting of a public key (stored on the virtual machines) and a private key.
 
   <img src="screenshots/Picture1.png" width="400"><br>
 
