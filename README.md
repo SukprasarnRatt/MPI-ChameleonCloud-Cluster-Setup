@@ -41,3 +41,13 @@ This repository showcases the process of setting up a virtual machine (VM) clust
 
 - **Create NFS Server**:  
   Create NFS server and volume size 5GB for NFS server. Then atatch it to nfs server.
+
+  <img src="screenshots/Picture5.png" width="400"><br>
+
+  <img src="screenshots/Picture6.png" width="400"><br>
+
+  <img src="screenshots/Picture7.png" width="400"><br>
+
+  <img src="screenshots/Picture8.png" width="400"><br>
+
+  <img src="screenshots/Picture9.png" width="400"><br>
