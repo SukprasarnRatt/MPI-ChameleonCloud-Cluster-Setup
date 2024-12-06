@@ -23,3 +23,10 @@ This repository showcases the process of setting up a virtual machine (VM) clust
 
 - **Distributed Program Execution**:  
   Run and verify a parallel "Hello World" program across the cluster.
+  
+---
+
+## Set Up Environment
+
+- **Create 3 Virtual Machines using image CentOs Stream9**:  
+  This virtual machines will be set up as a cluster in the future.
