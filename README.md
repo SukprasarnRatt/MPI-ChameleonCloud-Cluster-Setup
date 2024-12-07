@@ -68,9 +68,10 @@ Example `/etc/hosts` configuration:
 
 ### **Install MPICH**
 
-- ** Install MPICH libraries on all VMs**:
+- **Install MPICH libraries on all VMs**:
   This library will allow VMs to communicate in parallel and run MPI jobs across multiple machines. 
-- ** Create data directory on each VM to prepare it for sharing. In the further step, we will export the /data directory from the NFS server, so that this directory will be available for other VMs(clients) to access.
+- **Create Data Directory**:
+  on each VM to prepare it for sharing. In the further step, we will export the /data directory from the NFS server, so that this directory will be available for other VMs(clients) to access.
 
 
 
