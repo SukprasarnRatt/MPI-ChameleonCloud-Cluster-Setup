@@ -51,3 +51,7 @@ This repository showcases the process of setting up a virtual machine (VM) clust
   <img src="screenshots/Picture8.png" width="400"><br>
 
   <img src="screenshots/Picture9.png" width="400"><br>
+
+- **Modify /etc/hosts**:  
+  Create an NFS server with a 5GB volume. Attach the volume to the NFS server to enable shared storage for the cluster.
+  
