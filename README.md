@@ -63,3 +63,8 @@ Example `/etc/hosts` configuration:
 10.56.1.160 2074557-3.novalocal
 10.56.0.214 nfs-2074557.novalocal
 [cc@2074557-3 ~]$
+```
+---
+
+### **Modify `/etc/hosts`** 
+
