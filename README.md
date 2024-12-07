@@ -1,4 +1,4 @@
-# MPI-ChameleonCloud-Cluster-Setup
+# MPICH-ChameleonCloud-Cluster-Setup
 
 **Setup and Configuration of a Virtual Machine Cluster to Run MPI Programs**
 
@@ -66,5 +66,11 @@ Example `/etc/hosts` configuration:
 ```
 ---
 
-### **Modify `/etc/hosts`** 
+### **Install MPICH**
+
+- ** Install MPICH libraries on all VMs**:
+  This library will allow VMs to communicate in parallel and run MPI jobs across multiple machines. 
+- ** Create data directory on each VM to prepare it for sharing. In the further step, we will export the /data directory from the NFS server, so that this directory will be available for other VMs(clients) to access.
+
+
 
